@@ -4009,8 +4009,8 @@ GameObject:
   - 124: {fileID: 1653203670}
   - 92: {fileID: 1653203669}
   - 81: {fileID: 1653203668}
-  - 114: {fileID: 1653203673}
   - 114: {fileID: 1653203674}
+  - 114: {fileID: 1653203673}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -4094,9 +4094,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1653203667}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ac522895d2f714a5791e2808ce206be0, type: 3}
+  m_Script: {fileID: 11500000, guid: 40ea028c9a5924be2baf0b7a4cbb7af2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  target: {fileID: 0}
 --- !u!114 &1653203674
 MonoBehaviour:
   m_ObjectHideFlags: 0
