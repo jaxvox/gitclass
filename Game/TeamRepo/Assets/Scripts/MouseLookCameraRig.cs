@@ -39,11 +39,11 @@ public class MouseLookCameraRig : MonoBehaviour
 			//Debug.Log("vr device = "+UnityEngine.VR.VRSettings.loadedDevice);
 //			if ((UnityEngine.VR.VRSettings.loadedDevice != UnityEngine.VR.VRDeviceType.None)
 
-		if ((UnityEngine.VR.VRSettings.loadedDevice != UnityEngine.VR.VRDeviceType.None))
+		/*if ((UnityEngine.VR.VRSettings.loadedDevice != UnityEngine.VR.VRDeviceType.None))
 
 			{
 				return;
-			}
+			}  */
 
 			//(UnityEngine.VR.VRSettings.loadedDevice != UnityEngine.VR.VRDeviceType.Unknown)) //HACK!
 
